@@ -4,3 +4,4 @@ This is a place to practice git. Your first exercise is to append your contact d
 | Name        | Roll           | email  |
 | ------------- |:-------------:| -----:|
 |Ankush Chatterjee | 13MA20008      | ankushchatterjee.iitkgp@gmail.com  |
+|Kaustubh Mani     | 13EX20013      | kaustubh3095@gmail.com 		 |
