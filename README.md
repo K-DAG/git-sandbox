@@ -9,3 +9,4 @@ This is a place to practice git. Your first exercise is to append your contact d
 |Ashwary Anand | 15MF10004  |  vshlkumar56@gmail.com |
 |Pareen Jain       | 14ME10029      | pareen.jain@gmail.com / djparis678@gmail.com  |
 |Rameshwar Bhaskaran | 14CS30027    | rameshwarbhaskaran.iitkgp@gmail.com |
+|Siddharth Singh | 15CS30032    | siddharth9820@gmail.com |
