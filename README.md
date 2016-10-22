@@ -5,6 +5,5 @@ This is a place to practice git. Your first exercise is to append your contact d
 | ------------- |:-------------:| -----:|
 |Ankush Chatterjee | 13MA20008      | ankushchatterjee.iitkgp@gmail.com  |
 |Arnab Bir | 14MA20009      | arnabbir@gmail.com  |
-|Chinmay Sawkar | 15MF10018 | chinmay997@gmail.com |
 |Kaustubh Mani     | 13EX20013      | kaustubh3095@gmail.com             |
 |Pareen Jain       | 14ME10029      | pareen.jain@gmail.com / djparis678@gmail.com  |
