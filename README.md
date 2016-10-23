@@ -12,3 +12,4 @@ This is a place to practice git. Your first exercise is to append your contact d
 |Piyush Kumar Singh| 14CE3FP11      | piyushk95@gmail.com | 
 |Rameshwar Bhaskaran | 14CS30027    | rameshwarbhaskaran.iitkgp@gmail.com |
 |Siddharth Singh | 15CS30032    | siddharth9820@gmail.com |
+|Shivam Agarwal | 14MA20057 | agarwal.shivam207@gmail.com |
