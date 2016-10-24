@@ -16,4 +16,5 @@ This is a place to practice git. Your first exercise is to append your contact d
 |Ritwika Chowdhury| 14EC30027       | ritwikachowdhury1995@gmail.com |
 |Saumo Pal        | 15EC3FP03       | saumopal1997@gmail.com |
 |Shivam Agarwal | 14MA20057 | agarwal.shivam207@gmail.com |
+|Shubham Dhal | 14ME10078 | shubhamdhal@gmail.com |
 |Siddharth Singh | 15CS30032    | siddharth9820@gmail.com |
