@@ -18,3 +18,4 @@ This is a place to practice git. Your first exercise is to append your contact d
 |Shivam Agarwal | 14MA20057 | agarwal.shivam207@gmail.com |
 |Shubham Dhal | 14ME10078 | shubhamdhal@gmail.com |
 |Siddharth Singh | 15CS30032    | siddharth9820@gmail.com |
+|Utkarsh Parasrampuria | 14CS30037 | utkarshparasarampuria@gmail.com |
